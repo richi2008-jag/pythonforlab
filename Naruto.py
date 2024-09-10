@@ -37,4 +37,6 @@ if rank.lower() == "kage":
   print(f"{char_name} Welcome Hokage") 
 Ninjas_wars=["yes","No",]
 Ninja_war=random.choice(Ninjas_wars)
-print(Ninja_war)
+print(Ninja_war) 
+goat="king"
+print(goat)
